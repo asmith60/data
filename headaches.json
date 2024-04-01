@@ -1,132 +1,132 @@
 [
     {
-        "time": 1702598400,
+        "time": 1702598400000,
         "intensity": 7,
         "side": "none",
         "migraine": true
     },
     {
-        "time": 1703462400,
+        "time": 1703462400000,
         "intensity": 3,
         "side": "left",
         "migraine": true
     },
     {
-        "time": 1703894400,
+        "time": 1703894400000,
         "intensity": 2,
         "side": "none",
         "migraine": false
     },
     {
-        "time": 1704240000,
+        "time": 1704240000000,
         "intensity": 2,
         "side": "none",
         "migraine": false
     },
     {
-        "time": 1705449600,
+        "time": 1705449600000,
         "intensity": 2,
         "side": "none",
         "migraine": false
     },
     {
-        "time": 1705536000,
+        "time": 1705536000000,
         "intensity": 2,
         "side": "none",
         "migraine": true
     },
     {
-        "time": 1706227200,
+        "time": 1706227200000,
         "intensity": 2,
         "side": "left",
         "migraine": false
     },
     {
-        "time": 1707004800,
+        "time": 1707004800000,
         "intensity": 2,
         "side": "left",
         "migraine": true
     },
     {
-        "time": 1707264000,
+        "time": 1707264000000,
         "intensity": 2,
         "side": "none",
         "migraine": false
     },
     {
-        "time": 1707955200,
+        "time": 1707955200000,
         "intensity": 2,
         "side": "none",
         "migraine": false
     },
     {
-        "time": 1708300800,
+        "time": 1708300800000,
         "intensity": 5,
         "side": "right",
         "migraine": true
     },
     {
-        "time": 1708473600,
+        "time": 1708473600000,
         "intensity": 2,
         "side": "left",
         "migraine": false
     },
     {
-        "time": 1709078400,
-        "intensity": 2,
-        "side": "left",
-        "migraine": true
-    },
-    {
-        "time": 1709164800,
+        "time": 1709078400000,
         "intensity": 2,
         "side": "left",
         "migraine": true
     },
     {
-        "time": 1709683200,
+        "time": 1709164800000,
+        "intensity": 2,
+        "side": "left",
+        "migraine": true
+    },
+    {
+        "time": 1709683200000,
         "intensity": 2,
         "side": "left",
         "migraine": false
     },
     {
-        "time": 1709769600,
+        "time": 1709769600000,
         "intensity": 2,
         "side": "right",
         "migraine": false
     },
     {
-        "time": 1710374400,
+        "time": 1710374400000,
         "intensity": 2,
         "side": "left",
         "migraine": false
     },
     {
-        "time": 1710892800,
+        "time": 1710892800000,
         "intensity": 2,
         "side": "right",
         "migraine": true
     },
     {
-        "time": 1710979200,
+        "time": 1710979200000,
         "intensity": 2,
         "side": "right",
         "migraine": true
     },
     {
-        "time": 1711065600,
+        "time": 1711065600000,
         "intensity": 2,
         "side": "right",
         "migraine": false
     },
     {
-        "time": 1711152000,
+        "time": 1711152000000,
         "intensity": 2,
         "side": "right",
         "migraine": false
     },
     {
-        "time": 1711238400,
+        "time": 1711238400000,
         "intensity": 2,
         "side": "left",
         "migraine": true
