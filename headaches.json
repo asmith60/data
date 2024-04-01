@@ -3,132 +3,161 @@
         "time": 1702616400000,
         "intensity": 7,
         "side": "none",
-        "migraine": true
+        "migraine": true,
+        "day": "2"
     },
     {
         "time": 1703480400000,
         "intensity": 3,
         "side": "left",
-        "migraine": true
+        "migraine": true,
+        "day": "12"
     },
     {
         "time": 1703912400000,
         "intensity": 2,
         "side": "none",
-        "migraine": false
+        "migraine": false,
+        "day": "17"
+    },
+    {
+        "time": 1703998800000,
+        "intensity": 2,
+        "side": "none",
+        "migraine": false,
+        "day": "18"
     },
     {
         "time": 1704258000000,
         "intensity": 2,
         "side": "none",
-        "migraine": false
+        "migraine": false,
+        "day": "21"
     },
     {
         "time": 1705467600000,
         "intensity": 2,
         "side": "none",
-        "migraine": false
+        "migraine": false,
+        "day": "12"
     },
     {
         "time": 1705554000000,
         "intensity": 2,
         "side": "none",
-        "migraine": true
+        "migraine": true,
+        "day": "13"
     },
     {
         "time": 1706245200000,
         "intensity": 2,
         "side": "left",
-        "migraine": false
+        "migraine": false,
+        "day": "21"
     },
     {
         "time": 1707022800000,
         "intensity": 2,
         "side": "left",
-        "migraine": true
+        "migraine": true,
+        "day": "8"
     },
     {
         "time": 1707282000000,
         "intensity": 2,
         "side": "none",
-        "migraine": false
+        "migraine": false,
+        "day": "11"
     },
     {
         "time": 1707973200000,
         "intensity": 2,
         "side": "none",
-        "migraine": false
+        "migraine": false,
+        "day": "19"
     },
     {
         "time": 1708318800000,
         "intensity": 5,
         "side": "right",
-        "migraine": true
+        "migraine": true,
+        "day": "23"
     },
     {
         "time": 1708491600000,
         "intensity": 2,
         "side": "left",
-        "migraine": false
+        "migraine": false,
+        "day": "25"
     },
     {
         "time": 1709096400000,
         "intensity": 2,
         "side": "left",
-        "migraine": true
+        "migraine": true,
+        "day": "7"
     },
     {
         "time": 1709182800000,
         "intensity": 2,
         "side": "left",
-        "migraine": true
+        "migraine": true,
+        "day": "8"
     },
     {
         "time": 1709701200000,
         "intensity": 2,
         "side": "left",
-        "migraine": false
+        "migraine": false,
+        "day": "14"
     },
     {
         "time": 1709787600000,
         "intensity": 2,
         "side": "right",
-        "migraine": false
+        "migraine": false,
+        "day": "15"
     },
     {
         "time": 1710392400000,
         "intensity": 2,
         "side": "left",
-        "migraine": false
+        "migraine": false,
+        "day": "22"
     },
     {
         "time": 1710910800000,
         "intensity": 2,
         "side": "right",
-        "migraine": true
+        "migraine": true,
+        "day": "3"
     },
     {
         "time": 1710997200000,
         "intensity": 2,
         "side": "right",
-        "migraine": true
+        "migraine": true,
+        "day": "4"
     },
     {
         "time": 1711083600000,
         "intensity": 2,
         "side": "right",
-        "migraine": false
+        "migraine": false,
+        "day": "5"
     },
     {
         "time": 1711170000000,
         "intensity": 2,
         "side": "right",
-        "migraine": false
+        "migraine": false,
+        "day": "6"
     },
     {
         "time": 1711256400000,
         "intensity": 2,
         "side": "left",
-        "migraine": true
+        "migraine": true,
+        "day": "7"
     }
 ]
