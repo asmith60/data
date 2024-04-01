@@ -1,138 +1,132 @@
 [
     {
-        "time": "12/15/2023",
+        "time": "2023-12-15",
         "intensity": 7,
         "side": "none",
         "migraine": true
     },
     {
-        "time": "12/25/2023",
+        "time": "2023-12-25",
         "intensity": 3,
         "side": "left",
         "migraine": true
     },
     {
-        "time": "12/30/2023",
+        "time": "2023-12-30",
         "intensity": 2,
         "side": "none",
         "migraine": false
     },
     {
-        "time": "12/30/2023",
+        "time": "2024-01-03",
         "intensity": 2,
         "side": "none",
         "migraine": false
     },
     {
-        "time": "01/03/2024",
+        "time": "2024-01-17",
         "intensity": 2,
         "side": "none",
         "migraine": false
     },
     {
-        "time": "01/17/2024",
-        "intensity": 2,
-        "side": "none",
-        "migraine": false
-    },
-    {
-        "time": "01/18/2024",
+        "time": "2024-01-18",
         "intensity": 2,
         "side": "none",
         "migraine": true
     },
     {
-        "time": "01/26/2024",
+        "time": "2024-01-26",
         "intensity": 2,
         "side": "left",
         "migraine": false
     },
     {
-        "time": "02/04/2024",
+        "time": "2024-02-04",
         "intensity": 2,
         "side": "left",
         "migraine": true
     },
     {
-        "time": "02/07/2024",
+        "time": "2024-02-07",
         "intensity": 2,
         "side": "none",
         "migraine": false
     },
     {
-        "time": "02/15/2024",
+        "time": "2024-02-15",
         "intensity": 2,
         "side": "none",
         "migraine": false
     },
     {
-        "time": "02/19/2024",
+        "time": "2024-02-19",
         "intensity": 5,
         "side": "right",
         "migraine": true
     },
     {
-        "time": "02/21/2024",
+        "time": "2024-02-21",
         "intensity": 2,
         "side": "left",
         "migraine": false
     },
     {
-        "time": "02/28/2024",
-        "intensity": 2,
-        "side": "left",
-        "migraine": true
-    },
-    {
-        "time": "02/29/2024",
+        "time": "2024-02-28",
         "intensity": 2,
         "side": "left",
         "migraine": true
     },
     {
-        "time": "03/06/2024",
+        "time": "2024-02-29",
+        "intensity": 2,
+        "side": "left",
+        "migraine": true
+    },
+    {
+        "time": "2024-03-06",
         "intensity": 2,
         "side": "left",
         "migraine": false
     },
     {
-        "time": "03/07/2024",
+        "time": "2024-03-07",
         "intensity": 2,
         "side": "right",
         "migraine": false
     },
     {
-        "time": "03/14/2024",
+        "time": "2024-03-14",
         "intensity": 2,
         "side": "left",
         "migraine": false
     },
     {
-        "time": "03/20/2024",
+        "time": "2024-03-20",
         "intensity": 2,
         "side": "right",
         "migraine": true
     },
     {
-        "time": "03/21/2024",
+        "time": "2024-03-21",
         "intensity": 2,
         "side": "right",
         "migraine": true
     },
     {
-        "time": "03/22/2024",
+        "time": "2024-03-22",
         "intensity": 2,
         "side": "right",
         "migraine": false
     },
     {
-        "time": "03/23/2024",
+        "time": "2024-03-23",
         "intensity": 2,
         "side": "right",
         "migraine": false
     },
     {
-        "time": "03/24/2024",
+        "time": "2024-03-24",
         "intensity": 2,
         "side": "left",
         "migraine": true
